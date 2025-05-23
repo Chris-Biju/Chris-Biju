@@ -1,6 +1,8 @@
-Hello
-This is my github page where I post my projects.
-I know python, java, and javascript and am learning html/css right now.
+Hello!
+This is my github page where I post some of my projects.
+I'm going into highschool and planning on studying computer science.
+I know some python, java, javascript, and have started trying web development with html/css.
+You can find my personal website here: https://chrisjbiju.codehs.me/
 
 
 <!---
